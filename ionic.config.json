@@ -1,5 +1,7 @@
 {
   "name": "GApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
